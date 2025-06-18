@@ -49,6 +49,9 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
+<<<<<<< HEAD
 
 });
 
+=======
+>>>>>>> 40821b9 (New commit)
